@@ -9,5 +9,5 @@ radiographs were initially screened for quality control by removing all low qual
 images were then graded by two expert physicians before being cleared for training the AI system. In order to account for any 
 grading errors, the evaluation set was also checked by a third expert.
 
-#Dataset
+## Dataset
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
